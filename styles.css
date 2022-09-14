@@ -68,6 +68,12 @@ form{
     width: 300px;
     flex-wrap: wrap;
     gap: 1em;
+    padding: 64px;
+}
+.crew{
+    border-radius: 12px;
+    height: auto;
+    width: 480px;
 }
 .logo{
     font-size: 32px;
